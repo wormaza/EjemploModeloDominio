@@ -1,0 +1,52 @@
+@startuml
+title Modelo de Dominio (INF 236)
+skinparam style strictuml
+hide methods
+hide empty members
+
+note as nota1
+Por simplicidad, el estado 
+sera un texto.
+end note
+
+class Autor {
+    nombre : String
+}
+
+class Libro {
+    titulo : String
+    año : Int
+    genero: String
+}
+
+class Biblioteca {
+    nombre : String
+    telefono : Int
+    email: String
+}
+class Usuario {
+  rut: Int
+  dv : Char
+  telefono : Int
+  emal : String
+}
+
+class Multa {
+  fecha : Date
+  monto : Int
+}
+
+class Prestamo{
+    fecha_inicio: Date
+    fecha_termino: Date
+    estado: string
+}
+nota1 .up. Prestamo
+
+Biblioteca "1" -- "1..*" Libro : almacena >
+Libro "1..*" -- "0..*" Autor : fue-escrito >
+Usuario "1" -up- "0..*" Prestamo : realiza >
+Usuario "1" -- "0..*" Multa : posee >
+Prestamo "0..*" -- "1..*" Libro : contiene >
+
+@enduml
