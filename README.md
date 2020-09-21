@@ -13,6 +13,9 @@ El video de la clase pronto.
 
 Comentarios y observaciones a [wladimir.ormzabal@usm.cl](mailto:wladimir.ormazabal@usm.cl)
 
-## Comntarios
+## Contexto
 
-El objetivo de este ejemplo, es que puedan tomarlo como base para realizar sus propios modelamientos.
+Una biblioteca almacena libros; los cuales poseen un genero asociado.
+Los libros pueden ser anónimos (sin autor), o tener uno o más autores.
+Los usuarios realizan prestamos de uno o más libros.
+Bajo ciertas circunstancias los usuarios podrían ser multados.
