@@ -17,7 +17,9 @@ Comentarios y observaciones a [wladimir.ormzabal@usm.cl](mailto:wladimir.ormazab
 
 ## Contexto
 
-Una biblioteca almacena libros; los cuales poseen un genero asociado.
-Los libros pueden ser anónimos (sin autor), o tener uno o más autores.
-Los usuarios realizan prestamos de uno o más libros.
-Bajo ciertas circunstancias los usuarios podrían ser multados.
+* Una biblioteca almacena libros; los cuales poseen un genero asociado.
+* Los libros pueden ser anónimos (sin autor), o tener uno o más autores.
+* Los usuarios realizan prestamos de uno o más libros.
+* Bajo ciertas circunstancias los usuarios podrían ser multados.
+
+![alt text](https://raw.githubusercontent.com/wormaza/EjemploModeloDominio/master/out/ejemplo-diagrama-dominio/Modelo%20de%20Dominio%20(INF%20236).svg)
