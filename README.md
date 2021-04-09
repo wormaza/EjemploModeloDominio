@@ -6,10 +6,12 @@ El ejemplo contenido, sirve de base para que realicen sus propios diagrama. Se u
 * [VS Code](https://code.visualstudio.com/)
 * [Complemento VS Code](https://marketplace.visualstudio.com/items?itemName=Mebrahtom.plantumlpreviewer)
 * Ante problemas en Windows revisar [aquí](https://stackoverflow.com/questions/53856294/plantuml-extension-for-visual-studio-code-on-windows-only-working-with-sequence)
+* [Versión online](http://www.plantuml.com/plantuml/uml/RP71YXGn48RlUOfYJYfEuofuw8EikWWBhYo8PwdfrEmK9gccKX57yQ5y1b_CT6Uw6TmvfUlFz_-fhhhEXceb1cTiWU1EF0K1Jt0ZaHCBFBdzz05UldhzrELld4PKZ93jMDbioiFiFN0rHBA3-DmAYgCTgnHtfDcv94Q06Ug9L-vU53B7CV307lrpe02K3Rs0owG89O7H3vFEKVAJYPmR0kOCRujLyoy705MFEoNeuRCffmVtUu4-yaxb11bR2R92iuP__qpARRAvVA14AezZtl4ki1WDUFd1ba-1zfBEyoWYXxEublOb5rHkRMcn1VVVg_Fz0TLToAf9uSB_tPLWhQSz3GUin0qQrJ9AiiMzqlSwpJRAn9ySNpdnmBBuLjb88wTplQsbXxoqC6yGkZ9sQx1pPvFQN6rWkwr7rptRd3RH0uQ80oM4DswMsdqZNynVRR4zx0jjAG_A9XLUXZQdbd6bbwUhGGa3_yJ_uHLjm-fXb4nKgSNQxYyrEqWofZJ1xfgIBp7y0m00)
 
-Su desarrollo fue realizado para su uso en la asignatura INF236, del [Departamento de Informáctica](https://www.inf.utfsm.cl/) de la [Universidad Técnica Federico Santa María](https://www.usm.cl/), segundo semestre del 2020.
+Su desarrollo fue realizado para su uso en la asignatura INF236, del [Departamento de Informáctica](https://www.inf.utfsm.cl/) de la [Universidad Técnica Federico Santa María](https://www.usm.cl/).
 
-El video de la clase [aquí](https://youtu.be/PVW1vbfBEKI).
+El video de la clase 2020-2 [aquí](https://youtu.be/PVW1vbfBEKI).
+
 
 Comentarios y observaciones a [wladimir.ormzabal@usm.cl](mailto:wladimir.ormazabal@usm.cl)
 
